@@ -157,7 +157,7 @@ section{
 }
 
 .Tejidos{
-    background: url(../PAGINA/imagenes/patron_corazones.jpg) no-repeat;
+    background: url(imagenes/patron_corazones.jpg) no-repeat;
     /* background-color: #000; */
 }
 
@@ -197,7 +197,7 @@ video{
 }
 
 .seccion{
-    background: url(../PAGINA/imagenes/patron_corazones.jpg);
+    background: url(imagenes/patron_corazones.jpg);
 }
 
 .seccion img:hover{
